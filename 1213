@@ -1,21 +1,96 @@
+
 <!doctype html>
 <html>
 <head>
    <meta charset="utf-8">
-   <title>4080K087_Bootstrap_響應式網頁設計</title>
-
-   <!-- Bootstrap CSS CDN-->
+   <title>4080k087 1213</title>
+   
+    <!-- Bootstrap CSS CDN-->
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
-
 </head>
 <body>
-
+李白    月下獨酌
+花間一壺酒，
+獨酌無雙親；
+對影成三人。
+<hr>
+伊隆·里夫·馬斯克（英語：Elon Reeve Musk，/ˈiːlɒn/ EE-lon；1971年6月28日－），FRS，曾取漢名馬誼郎於臺灣作公司登記之用[4]，是一名企業家、商業大亨、美國工程院院士[5]。
+他是SpaceX創始人、董事長、執行長、首席工程師，特斯拉投資人、執行長、產品設計師、前董事長，無聊公司創始人，Neuralink、OpenAI聯合創始人，同時也是Twitter的執行長、董事會唯一成員。
+2022年馬斯克以2190億美元財富成為世界首富
+<hr>
+<h1>標題 1</h1>
+<h2>標題 2</h2>
+<h3>標題 3</h3>
+<h4>標題 4</h4>
+<h5>標題 5</h5>
+<h6>標題 6</h6>
+<hr>
+<h1>李白</h1>
+<h3>月下獨酌</h3>
+花間一壺酒，<br>
+獨酌無雙親；<br>
+舉杯邀明月，<br>
+對影成三人。<br>
+<hr>
+<pre>
+李白
+花間一壺酒，
+獨酌無雙親；
+舉杯邀明月，
+對影成三人。
+</pre>
+<hr>
+<h1>月下獨酌</h1>
+花間一壺酒，獨酌無雙親；舉杯邀明月，對影成三人。
+<hr>
+<section>
+   <h1>Big Data Knowledge</h1>
+   <p>了解大數據的原理、實作、工具、應用以及未來趨勢，都將會是求
+   學、進修、求職，深造的必須技能。</p>
+</section>
+<hr>
+<section>
+   <h1>R Language Today</h1>
+   <p>自由軟體R是一種根基於S 語言的GNU免費的統計數學套裝分
+   享軟體，對於探索性數據分析、統計方法、及圖形，提供了所
+   有的原始碼。</p>
+</section>
+<hr>
+<footer>
+<br>
+<p>CopyRight 2017, Silicon Stone Education, INC.</p>
+</footer>
+<hr>
+<p>深石數位的核心理念是<strong>深度學習滴水穿石</strong></p>
+<p>深石數位的<b>網路數位部門</b>業務是<b>設計線上教材</b></p>
+<hr>
+<h1>今年送給母親節的禮物</h1>
+<p>1:帶母親坐郵輪<i>維多利亞號</i>遨遊地中海。</p>
+<p>2:送母親喜歡的<em>康乃馨</em>花卉。</p>
+<hr>
+<p>為人平易，廉潔樂道，不交接世俗，而專思經術。晝讀書傳，夜觀星宿，經常通宵達旦。
+<cite>漢書</cite>，這是劉向的作品</p>
+<p><q>夫屈原放廢</q>，<q>山有木兮木有枝，心悅君兮君不知</q>以上</p>
+<p>劉向</p>
+<p><blockquote>
+今夕何夕兮，搴舟中流。
+今日何日兮，得與王子同舟。
+蒙羞被好兮，不訾詬恥。
+心幾煩而不絕兮，得知王子。
+山有木兮木有枝，心悅君兮君不知。
+</blockquote></p>
+<hr>
+<mark>Chena Hot Springs溫泉渡假村</mark>
+<hr>
+<footer>
+<br>
+<p><small>CopyRight 2017, Silicon Stone Education, INC.</small></p>
+</footer>
+<hr>
 <p>進入系統首先需輸入<kbd>deepstone</kbd>再按Enter鍵</p>
 <p>在這個的應用中，變數<var>data</var>需輸入當天交易量</p>
 <p>視窗會顯示<samp>資料輸入成功</samp></p>
-
 <hr>
-<p>CSS主要精神是使用<code>style</code>執行設計與排版</p>
 <pre><code>
    p {
       color:blue;
@@ -26,7 +101,80 @@
 <abbr title="Silicon Stone Education">SSE</abbr>
 was founded in 2014.
 </p>
-
+<hr>
+<p>
+<dfn>DeepStone</dfn>是台灣深石數位公司開發的軟體，
+核心精神是「深度學習滴水穿石」。
+</p>
+<hr>
+<p>
+由於軟體更新<del>深石學習1.0</del>即日起停止支援，
+請下載<ins>深石學習2.0<ins>
+</p>
+<hr>
+<p>
+<bdi>約翰</bdi>:18<br>
+<bdi>Peter</bdi>:21<br>
+<bdi>מרי</bdi>:20<br>
+</p>
+<hr>
+<p>
+<bdo dir="ltr">DeepStone</bdo><br>
+<bdo dir="rtl">DeepStone</bdo>
+</p>
+<hr>
+<p>
+<ruby>崑山科大<rt>ㄎㄨㄣ ㄕㄢ ㄎㄜ ㄉㄚˋ</rt></ruby><br>
+<ruby>崑山<rt>Ming Chi</rt></ruby>
+</p>
+<hr>
+<p>
+<ruby>
+崑山科大<rp>(</rp><rt>ㄎㄨㄣ ㄕㄢ ㄎㄜ ㄉㄚˋ</rt><rp>)</rp>
+</ruby><br>
+<ruby>
+崑山<rp>(</rp><rt>Ming Chi</rt><rp>)</rp>
+</ruby>
+</p>
+<hr>
+<body>
+<p>
+X<sup>3</sup><br>
+H<sub>2</sub>O<br>
+</p>
+</body>
+<hr>
+<p>
+崑山科大資訊工程<br>
+崑山科大&nbsp;資訊工程系<br>
+崑山科大&#160;&#160;資工系<br>
+</p>
+<hr>
+<p>
+小於&nbsp;&lt;&nbsp;&#60;<br>
+大於&nbsp;&gt;&nbsp;&#62;<br>
+引號&nbsp;&quot;&nbsp;&#34;<br>
+和號&nbsp;&amp;&nbsp;&#38;<br>
+分&nbsp;&cent;&nbsp;&#162;<br>
+英鎊&nbsp;&pound;&nbsp;&#163;<br>
+日圓&nbsp;&yen;&nbsp;&#165;<br>
+歐元&nbsp;&euro;&nbsp;&#8364;<br>
+版權&nbsp;&copy;&nbsp;&#169;<br>
+註冊商標&nbsp;&reg;&nbsp;&#174;<br>
+</p>
+<hr>
+<header>
+   <h1>HTML的樹狀結構解析</h1>
+   <h2>頁首區</h2>
+</header>
+<section>
+   <h1>HTML本文區</h1>
+   <p>我的網頁結構分析</p>
+</section>
+<footer>
+   <h1>頁尾區</h1>
+   </p><small>123&reg;</small></p>
+</footer>
 <hr>
 <div class="bg-primary p-2 text-white text-center">bg-primary</div>
 <div class="bg-primary p-2 text-white bg-opacity-75 text-center">opacity：75%</div>
@@ -37,6 +185,5 @@ was founded in 2014.
 
 <!-- Bootstrap JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
-
 </body>
 </html>
